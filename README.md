@@ -5,8 +5,8 @@
     <a href="https://www.linkedin.com/in/ta-yu-052a0077/">Linkedin</a>  |
     <a href="https://www.facebook.com/ayuttyua">facebook</a> 
      <br><br>
-    <a >e-mail:ayuttyua@gmail.com</a> |
-  <a >Cell Phone:+886-919501037</a> 
+    <a >e-mail : ayuttyua@gmail.com</a> |
+  <a >Cell Phone : +886-919501037</a> 
     <br><br>
 </p>
 
