@@ -8,13 +8,12 @@
     <a >e-mail:ayuttyua@gmail.com</a> |
   <a >Cell Phone:+886-919501037</a> 
     <br><br>
-    <br><br>
 </p>
 
 
 ### [1.View My Projects](https://github.com/YuTaNCCU?tab=repositories)
-### [2.View My Skill List](https://github.com/YuTaNCCU/Personal_Introduction/wiki/Skill-List)
-### [3.View My Education](https://github.com/YuTaNCCU/Personal_Introduction/blob/master/Resume_Picture/education.png)
-### [4.View My Activities](https://github.com/YuTaNCCU/Personal_Introduction/blob/master/Resume_Picture/ActivitiesExperience.png)
+### [2.View My Skill List](https://github.com/YuTaNCCU/Personal_Introduction/wiki/2.Skill-List)
+### [3.View My Education](https://github.com/YuTaNCCU/Personal_Introduction/wiki/3.Education)
+### [4.View My Activities](https://github.com/YuTaNCCU/Personal_Introduction/wiki/4.Activities-and-Experience)
 ### [5.View My Academic Works](https://github.com/YuTaNCCU?tab=repositories)
 
