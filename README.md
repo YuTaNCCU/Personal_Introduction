@@ -7,4 +7,14 @@
      <br><br>
     <a >e-mail:ayuttyua@gmail.com</a> |
   <a >Cell Phone:+886-919501037</a> 
+    <br><br>
+    <br><br>
 </p>
+
+
+### [1.View My Projects](https://github.com/YuTaNCCU?tab=repositories)
+### [2.View My Skill List](https://github.com/YuTaNCCU?tab=repositories)
+### [1.View My Education](https://github.com/YuTaNCCU?tab=repositories)
+### [1.View My Activities](https://github.com/YuTaNCCU?tab=repositories)
+### [1.View My Academic Works](https://github.com/YuTaNCCU?tab=repositories)
+
