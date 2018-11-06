@@ -16,10 +16,10 @@
 ### [3.View My Education](https://github.com/YuTaNCCU/Personal_Introduction/wiki/3.Education)
 ### [4.View My Activities](https://github.com/YuTaNCCU/Personal_Introduction/wiki/4.Activities-and-Experience)
 ### [5.View My Leisure activities](https://github.com/YuTaNCCU/Personal_Introduction/wiki/5.Recent-Reading-and-Leisure-activities)
-### 6.My Resume  [1 pages ]( https://drive.google.com/open?id=1nUvCvmZX3pTt8eU-Mbu6Lq1TwJAW6hq0) [|  2 pages ](https://drive.google.com/open?id=1Rq1XCtfNsyrBXpRW_jI_Zvs2xW_6nSDT) [|  3 pages](https://drive.google.com/file/d/1EK9wu0BoVLYpdX09UcOvHXEQHBIUmNMC/view)
+### 6.My Resume  [1 pages ]( https://drive.google.com/open?id=1FP1QH46kweG9YtG9sF6iEYkLkcAUS_Ye) [|  2 pages ](https://drive.google.com/open?id=1Rq1XCtfNsyrBXpRW_jI_Zvs2xW_6nSDT) [|  3 pages](https://drive.google.com/file/d/1EK9wu0BoVLYpdX09UcOvHXEQHBIUmNMC/view)
  
 
  
 <p align="center">
-    <img src="https://github.com/YuTaNCCU/Personal_Introduction/blob/master/Resume_Picture/cv1p_eng_0408.bmp" alt="alt text">
+    <img src="" alt="">
 </p>
